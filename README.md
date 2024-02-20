@@ -12,5 +12,5 @@ Objetivo desse mini projeto era criar um mini cartão popup template responsivo 
 
 ### URL
 
-- [URL ao vivo](https://pages.github.com/)
-- [URL do repositório](https://pages.github.com/)
+- [URL ao vivo](https://rafaelsilvafernandes.github.io/Newsletter-Popup-Starter-Files/)
+- [URL do repositório](https://github.com/rafaelsilvafernandes/Newsletter-Popup-Starter-Files)
