@@ -83,13 +83,18 @@ footer {
     padding-bottom: 20px;
 }
 
-@media screen and (min-width: 500px) {
+@media screen and (min-width: 450px) {
     body {
         background-image: url(Assets/Background.png);
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
+    }
+
+    body {
+        transform: scale(0.9);
+        transition: .1s;
     }
 
     header {
